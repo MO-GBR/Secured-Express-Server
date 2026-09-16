@@ -19,9 +19,9 @@ As you can see if you're looking forward to build a node.js , or MERN stack, or 
 
 # How to get started using it
 
-1. clone this repo
+1. clone this repository
 ```bash
-git clone 
+git clone https://github.com/MO-GBR/Secured-Express-Server.git
 ```
 2. install dependencies
 ```bash
